@@ -1,3 +1,3 @@
 # appoinments_app
 
-A new Flutter project.
+Appoinments app made with sqflite database and bloc state management
